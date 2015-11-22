@@ -1,0 +1,22 @@
+#container{
+  width: 480px;
+  height: 480px;
+}
+.cell{
+  width: 30px;
+  height: 30px;
+  background-color: #75789a;
+  float: left;
+  text-align: center;
+  vertical-align:middle;
+  line-height: 30px;
+}
+.red{
+  background-color: red;
+}
+.blue{
+  background-color: blue;
+}
+.yellow{
+  background-color: yellow;
+}
